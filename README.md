@@ -62,41 +62,41 @@ EDA and Insights
 
 -   Teams have identified the 29 second mark as the cutoff in which they may need to foul to get the ball back. 5 seconds seems to be prevailing number as the amount of time accepted that is needed to score, as shown in the take fouls while up as well.
 
-Photo 1A
+![photo 1a](https://user-images.githubusercontent.com/82183590/216804751-fbdb3678-3b66-422b-aed4-e908e0d1a9ec.JPG)
 
 -   As expected when there is more than 30 seconds, more teams are willing to just wait and play out defense.
 
-Photo 1B
+![photo 1b](https://user-images.githubusercontent.com/82183590/216804758-9193ffae-667f-4994-b772-675723acb1b6.JPG)
 
 -   The win percentage seems to rise at about 30 seconds for teams that do not foul. This would lend itself to why teams mostly viewed this 29 second mark as when they fouled.
 
-Photo 2
+![photo 2](https://user-images.githubusercontent.com/82183590/216804766-26734177-7c7c-4c98-bc91-243f67061115.jpg)
 
 -   Most teams that choose the take foul when they have the choice do so when they are down 3. This could be because they feel more desperate. If they are only down by 1 and give up a basket, they could still have a chance to tie. Down 2 or 3 and giving up a basket as well as having the majority of the remaining time milked leaves no chance to win the game.
 
-Photo 3
+![photo 3](https://user-images.githubusercontent.com/82183590/216804779-7802ca50-c944-46d0-95ae-f613292afefb.jpg)
 
 -   This is contrasted by the distribution of teams not fouling. Much more evenly distributed with more instances of no fouls when down 1. 
 
-Photo 3b
+![photo 3b](https://user-images.githubusercontent.com/82183590/216804784-c9424861-1f39-48fa-8c87-add9a1df1336.JPG)
 
 -   Teams are much more likely to win when trailing by only 1 as opposed to 2 or 3. This is intuitive. But it also suggests the situation is not dire enough down 1 to foul. This is using rhe dataframe of teams not fouling as none of the teams that fouled actually won the game.
 
-Photo 3c
+![photo 3c](https://user-images.githubusercontent.com/82183590/216804789-90122810-59a4-47de-a637-2530f86450d2.JPG)
 
 **Take Fouls When Winning Late**
 
 -   Teams are mostly fouling up when there is less than five seconds left and they are up at least 3. Situations in which a team fouls when only up 1 or 2 is when they have a foul to give. Any more than five seconds and the effect is minimized as opposing teams can still run a play. Or in the case of a foul up 3, an opposing team can still foul back with enough time to get the ball and shoot again.
 
-Photo 4
+![photo 4](https://user-images.githubusercontent.com/82183590/216804793-84ee813e-f19c-4b7d-830c-9cd1b41b29ab.jpg)
 
 -   Seeing that this is the inverse of the dataset of fouling when down, it makes sense that a large majority of losses come when the opposing team is only down 1. Of course, the sample size of teams that did foul when up 1 with a foul to give is small, but this relatively large losing percentage would suggest that using the foul to give under 5 seconds is a strong strategy. Additionally, if a team is able to foul with under 5 seconds left while up by 3 that also seems to be a smart strategy. While the majority of teams still win without fouling, it seems like a semi-guaranteed win so long as your players are capable of hitting both free throws, which would put you back in the same situation but with less time.
 
-Photo 5
+![photo 5](https://user-images.githubusercontent.com/82183590/216804796-39b7675c-66d6-4c21-b907-4a70b9b6d47f.JPG)
 
 -   I was just curious of this small sample size of who the teams were that did do the take foul while up. This strategy has been almost accepted as the correct strategy based on analytics, so it was interesting to see that some of the teams here are the ones we know to have strong investment in analytics. Of course Houston is one of the pioneers of the analytics movement in the last decade, and Atlanta and the Clippers are around the top third in terms of analytics department size.
 
-Photo 6
+![photo 6](https://user-images.githubusercontent.com/82183590/216804800-37fd6bec-2a04-4e47-9a43-5ddef0ae403e.JPG)
 
 Caveats
 -------
