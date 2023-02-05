@@ -113,7 +113,7 @@ There are a few notes I would like to include about this project:
 
 -   One angle of analysis on both questions that I did not get to address because of its lack of data in the set is timeouts remaining. Of course, if a team has a timeout to advance the ball the strategy (and likely results) changes drastically.
 
-Hope you enjoyed reading through this project!
+Hope you enjoyed reading this project!
 
 Feel free to contact me with any questions or inquiries.
 
