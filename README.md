@@ -26,7 +26,9 @@ This project is broken down into two parts, in which you can find the links to b
 
 -   Fouling with less than five seconds when up 3 essentially ends the game barring crazy circumstances.
 
-### Data Cleaning
+
+Data Cleaning
+-------
 
 In this project, I pulled data that was scraped from Basketball Reference by another contributor on Kaggle. The link to that can be found here: <https://www.kaggle.com/datasets/schmadam97/nba-playbyplay-data-20182019/code>
 
@@ -52,7 +54,9 @@ In order to achieve this main logic, I had to remove a few edge case games. Each
 
 -   Either team executing substitutions of calling for a replay: This left the game ambiguous of who had the ball without manually reading the play by play.
 
-### EDA and Insights
+
+EDA and Insights
+-------
 
 **Take Fouls When Down One Possession**
 
