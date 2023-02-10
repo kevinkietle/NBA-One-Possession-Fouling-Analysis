@@ -5,7 +5,7 @@ In this project, I had the goal of researching take fouls in one possession game
 
 After cleaning the data, I also decided I wanted to do a quick dive into teams that committed a take foul while winning to avoid giving up a three or to exercise their foul to give. The cleaning is not tailored to that question, however.
 
-Summary
+Abstract
 -------
 
 This project is broken down into two parts, in which you can find the links to below for full code and project. The rest of this readme will summarize key activities and findings from each section.
