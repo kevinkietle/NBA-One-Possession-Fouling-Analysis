@@ -1,12 +1,10 @@
 NBA One Possession Fouling Project
 ==================================
-
+Abstract
+-------
 In this project, I had the goal of researching take fouls in one possession games. The focus was take fouls from the losing team when down by one possession. Specifically, I only looked at situations in which there were more than 24 seconds remaining, implying that the team losing by one possession actually had a decision to make on whether or not to foul. I performed my research using Python, Pandas, Matplotlib, and Seaborn and data from [Schmadamco on Kaggle](https://www.kaggle.com/datasets/schmadam97/nba-playbyplay-data-20182019/code).
 
 After cleaning the data, I also decided I wanted to do a quick dive into teams that committed a take foul while winning to avoid giving up a three or to exercise their foul to give. The cleaning is not tailored to that question, however.
-
-Abstract
--------
 
 This project is broken down into two parts, in which you can find the links to below for full code and project. The rest of this readme will summarize key activities and findings from each section.
 
@@ -14,7 +12,7 @@ This project is broken down into two parts, in which you can find the links to b
 
 -   [2\. EDA](https://github.com/kevinkietle/NBA-One-Possession-Fouling-Analysis/blob/main/2.%20NBA%20One%20Possession%20Fouling%20Project%20-%20Analysis.ipynb)
 
-**Main takeaways:**
+### Main takeaways:
 
 -   For both fouling when up or when down, 5 seconds seems to be the accepted time from coaches that is needed for a team to have an effective chance of scoring.
 
